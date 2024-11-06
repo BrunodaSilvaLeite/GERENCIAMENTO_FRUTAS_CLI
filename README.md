@@ -2,18 +2,20 @@
 
 ## 🚀 Começando
 
-Neste projeto, trabalhei com três das implementações mais comuns de mapas em Java: HashTable, HashMap e TreeMap. Essas estruturas de dados são fundamentais para armazenar pares chave-valor, e cada uma delas possui características e comportamentos únicos.
+Este é um programa simples em Java que permite gerenciar uma lista de frutas. O programa oferece um menu interativo onde você pode adicionar, listar, modificar ou remover frutas da lista, além de sair do programa quando desejar.
 
-- **HashTable**: Utilizei a **HashTable** para armazenar dados de forma rápida, utilizando uma chave inteira e um valor em formato de string. Sua principal característica é ser sincronizada.
-- **HashMap**: O **HashMap** oferece a mesma funcionalidade, mas sem a sincronização automática, tornando-o mais rápido.
-- **TreeMap**: O **TreeMap** mantém os dados ordenados de acordo com as chaves, usando uma árvore binária de busca.
+## Funcionalidades
 
-Durante o desenvolvimento, utilizei o método put() para inserir pares chave-valor e entrySet() para iterar sobre os itens das coleções, exibindo tanto as chaves quanto os valores. 
-Através dessa experiência, pude aprender como essas estruturas funcionam, suas vantagens e desvantagens, e como escolher a mais adequada para diferentes cenários.
+- Adicionar uma fruta: Permite ao usuário adicionar uma nova fruta à lista.<br/>
+- Listar todas as frutas: Exibe todas as frutas que foram adicionadas até o momento.<br/>
+- Modificar uma fruta: Permite alterar o nome de uma fruta existente, escolhendo-a pelo índice na lista.<br/>
+- Remover uma fruta: Permite remover uma fruta da lista pelo nome.<br/>
+- Sair: Encerra o programa.
 
 ### 🖼️ Imagem 
-![image](https://github.com/user-attachments/assets/aaa24b7b-cabc-4d41-91b4-eb8266f660f0) /n
-![image](https://github.com/user-attachments/assets/ada85fab-a8ae-498f-a4fe-f25679ff9f31)
+![image](https://github.com/user-attachments/assets/22224080-c620-46a0-b0df-c127aad22b8c)
+ <br/>
+
 
 
 ### 📋 Pré-requisitos
