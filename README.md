@@ -12,7 +12,9 @@ Durante o desenvolvimento, utilizei o método put() para inserir pares chave-val
 Através dessa experiência, pude aprender como essas estruturas funcionam, suas vantagens e desvantagens, e como escolher a mais adequada para diferentes cenários.
 
 ### 🖼️ Imagem 
-![image](https://github.com/user-attachments/assets/1ca583b8-9525-4735-894c-9bbff2b02691)
+![image](https://github.com/user-attachments/assets/aaa24b7b-cabc-4d41-91b4-eb8266f660f0)
+![image](https://github.com/user-attachments/assets/ada85fab-a8ae-498f-a4fe-f25679ff9f31)
+
 
 ### 📋 Pré-requisitos
 - JAVA
